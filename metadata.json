@@ -1,0 +1,8 @@
+{
+  "name": " CRYOSIGHT",
+  "description": "AI-powered digital twin for cryogenic cooling in scalable quantum computing architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
